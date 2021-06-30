@@ -1,4 +1,4 @@
-# Contributing Guidelines Hi
+# Contributing Guidelines Hi There
 
 Thank you for your interest in **Palo Alto Networks** developer documentation!
 
