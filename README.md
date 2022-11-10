@@ -1,7 +1,7 @@
 [![Deploy Live](https://github.com/PaloAltoNetworks/pan.dev/actions/workflows/deploy-live.yml/badge.svg)](https://github.com/PaloAltoNetworks/pan.dev/actions/workflows/deploy-live.yml) [![CodeQL](https://github.com/PaloAltoNetworks/pan.dev/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/PaloAltoNetworks/pan.dev/actions/workflows/codeql-analysis.yml)
 
 <h1 align="center">
-  <p align="center">Palo Alto Networks Developer Docs</p>
+  <p align="center">Palo Alto Networks Developer Docs!</p>
   <a href="https://pan.dev">
   <img src="https://raw.githubusercontent.com/PaloAltoNetworks/pan.dev/master/static/img/site.png"/>
   </a>
